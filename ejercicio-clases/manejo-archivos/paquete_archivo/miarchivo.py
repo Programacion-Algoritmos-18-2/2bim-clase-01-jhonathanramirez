@@ -1,7 +1,7 @@
 
 import codecs
 
-class MiArchivo:
+class MisArchivos:
     """
     """
     
@@ -17,7 +17,7 @@ class MiArchivo:
         self.archivo.close()
 
 
-class MiArchivoEscribir:
+class MisArchivosEscribir:
     """
     """
     
